@@ -1,4 +1,7 @@
-//test
+
 public class KawabataC {
-//testestes
+	
+	public static void main(String[] args){
+		System.out.println("!!");
+	}
 }
