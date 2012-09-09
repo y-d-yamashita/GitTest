@@ -7,8 +7,8 @@ public class YDYamashita {
 	}
 	
 	public static void main(String[] args){
-		YDYamashita instance = new YDYamashita();
-		System.out.println(instance.toString());
-		System.out.println("A");
+		YDYamashita i = new YDYamashita();
+		System.out.println(i.toString());
+		System.out.println("B");
 	}
 }
