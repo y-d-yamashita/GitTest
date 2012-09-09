@@ -9,5 +9,6 @@ public class YDYamashita {
 	public static void main(String[] args){
 		YDYamashita i = new YDYamashita();
 		System.out.println(i.toString());
+		System.out.println("B");
 	}
 }
