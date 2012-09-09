@@ -10,5 +10,6 @@ public class YDYamashita {
 		YDYamashita i = new YDYamashita();
 		System.out.println(i.toString());
 		System.out.println("B");
+		System.err.println("F");
 	}
 }
