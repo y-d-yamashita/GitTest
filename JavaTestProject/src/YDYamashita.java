@@ -12,5 +12,6 @@ public class YDYamashita {
 		System.out.println("B");
 		System.out.println("D");
 		System.err.println();
+		System.exit(0);
 	}
 }
